@@ -21,6 +21,6 @@
         "id": 4,
         "version": "2019.3.3",
         "changesUrl": "https://nhat-phan.github.io/updates/merge-request-integration/releases/2019.3.3.html",
-        "active": false
+        "active": true
     }
 ]
